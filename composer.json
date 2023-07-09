@@ -1,0 +1,14 @@
+{
+    "name": "metracore/helper",
+    "description": "A part of Nitrovel framework component",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nishail Dev Team",
+            "email": "opensource@nishadil.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
