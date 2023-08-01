@@ -5,11 +5,11 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Nishail Dev Team",
+            "name": "Nishail.Dev",
             "email": "opensource@nishadil.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": "^8.0"
     }
