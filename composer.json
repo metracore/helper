@@ -1,7 +1,6 @@
 {
     "name": "metracore/helper",
     "description": "A part of Nitrovel framework component",
-    "type": "project",
     "license": "MIT",
     "authors": [
         {
@@ -9,7 +8,7 @@
             "email": "opensource@nishadil.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": "^8.0"
     }
